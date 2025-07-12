@@ -24,4 +24,4 @@ Because some of us like our computers as clean as our code.
 ## 🚀 Usage
 
 ```bash
-python organize.py --folder ~/Downloads
+python organize.py
